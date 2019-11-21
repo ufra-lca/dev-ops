@@ -29,7 +29,7 @@ then
 fi
 echo "Node instalado com sucesso"
 
-echo Instalação do Android Studio
+echo "Instalação do Android Studio"
 if ! sudo apt-get install android-studio
 
 then
