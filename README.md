@@ -1,4 +1,5 @@
 # dev-ops
+No caso do Manjaro, baixar o android studio e instalar antes de usar o aquivo .sh
 ## Extensões de configuração do Visual Studio.
 ### passo a passo para instalar extensões
 1. Baixar Settings Sync como extensão
