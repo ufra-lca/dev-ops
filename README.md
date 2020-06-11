@@ -14,3 +14,6 @@ No caso do Manjaro, baixar o android studio e instalar antes de usar o aquivo .s
 3. Ir na extensão do WakaTime utilizar ctr + shift + p e escrever na janela de busca WakaTime: Api Key e digitar a chave copiada
 
 ![Screenshot_2019-10-01 (2) WhatsApp](https://user-images.githubusercontent.com/42783697/65992748-32b48800-e466-11e9-9358-a73415465041.png)
+
+### react-native-shell-installer (BETA)
+> wget -qO- https://raw.githubusercontent.com/cdgato/react-native-shell-installer/master/install.sh | bash
